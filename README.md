@@ -16,8 +16,11 @@ O projeto deverá seguir os seguintes itens:
 
 
 ### Resultado
+* Wireframe 1 - Formulario de inscrição
 
 <img src="./img/result.png" alt="formulario de inscrição" width="800"/>
+
+* Wireframe 2- Formulario de inscrição, sem responsividade
 
 <img src="./img/result02.png" alt="formulario de inscrição" width="800"/>
 
@@ -30,10 +33,15 @@ O projeto deverá seguir os seguintes itens:
  * ajustes no input, uma regra minima de autenticação
 
  ### Resultado apos refatoração
+* Wireframe 1 - Formulario de inscrição
 
 <img src="./img/result_ref01.png" alt="formulario de inscrição" width="800"/>
 
+* Wireframe 2 - Formulario de inscrição, com o botão selecionado mudando de cor
+
 <img src="./img/result_ref02.png" alt="formulario de inscrição" width="800"/>
+
+* Wireframe 3 - Formulario de inscrição, com responsividade
 
 <img src="./img/result_ref03.png" alt="formulario de inscrição" width="800"/>
 
