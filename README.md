@@ -21,6 +21,7 @@ O projeto deverá seguir os seguintes itens:
 
 <img src="./img/result02.png" alt="formulario de inscrição" width="800"/>
 
+* link do github page: https://lipeqalves.github.io/formularioInscricao/
 ## 🛠️ Refatorando o projeto
  ### itens refatorados
  * adiciona responsividade
